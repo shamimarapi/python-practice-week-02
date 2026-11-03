@@ -1,1 +1,6 @@
-3.15
+num = [1,4,9,16,25,36,49]
+heros = [fawad, fahad, ali, qasim]
+i = 0
+while < len(heros):
+    print (heros[i])
+i += 1
